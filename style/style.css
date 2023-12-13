@@ -199,7 +199,7 @@ nav.scroll {
 }
 
 #svg {
-    top: 40px;
+    top: 0px;
     position: absolute;
     height: 800px;
 }
