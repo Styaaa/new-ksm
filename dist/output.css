@@ -435,8 +435,6 @@ video {
   height: auto;
 }
 
-
-
 /* Make elements with the HTML hidden attribute stay hidden by default */
 
 [hidden] {
@@ -555,6 +553,10 @@ video {
   margin: 0px;
 }
 
+.h-36 {
+  height: 9rem;
+}
+
 .h-96 {
   height: 24rem;
 }
@@ -591,10 +593,6 @@ video {
 
 .font-bold {
   font-weight: 700;
-}
-
-.italic {
-  font-style: italic;
 }
 
 .text-white {
